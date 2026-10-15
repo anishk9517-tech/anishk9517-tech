@@ -38,7 +38,7 @@ I'm practicing problems on LeetCode and learning to explain my approach, time co
 
 ---
 
-⭐ Thanks for visiting my profile! I'm learning step by step and working toward becoming a better developer.## Hi there 👋
+⭐ Thanks for visiting my profile! I'm learning step by step and working toward becoming a better developer.
 
 <!--
 **anishk9517-tech/anishk9517-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
